@@ -80,3 +80,4 @@ yarn-error.*
 .env
 android/app/src/main/AndroidManifest.xml
 android/app/build.gradle
+android/gradle.properties
