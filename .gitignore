@@ -79,4 +79,3 @@ yarn-error.*
 # @end expo-cli
 .env
 android/app/src/main/AndroidManifest.xml
-.env
