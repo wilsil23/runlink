@@ -7,6 +7,6 @@ export default function App() {
   } else if (Platform.OS === 'android') {
     return <GoogleMaps.View style={{ flex: 1 }} />;
   } else {
-    return <Text>Maps are only available on Android and iOS</Text>;
+    return <Text>Maps are only available on Android & iOS</Text>;
   }
 }
